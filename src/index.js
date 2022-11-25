@@ -1,3 +1,6 @@
+//If you want to push to github, go to terminal and type:
+// git push
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
